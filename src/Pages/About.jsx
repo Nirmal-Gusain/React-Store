@@ -1,7 +1,7 @@
 const About = () => {
   return (
     <>
-      <div className="flex flex-wrap gap-2 sm:gap-x-6 items-center justify-center mt-28 sm:mt-20">
+      <div className="flex flex-wrap gap-2 sm:gap-x-6 items-center justify-center mt-28 sm:mt-20 ">
         <h1 className="text-4xl font-bold leading-none tracking-tight sm:text-6xl ">
           We love
         </h1>
@@ -13,7 +13,7 @@ const About = () => {
           </div>
         </div>
       </div>
-      <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">
+      <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto px-4 text-center">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic veniam
         odit, officiis eos mollitia alias, doloremque, aspernatur ratione
         asperiores voluptas labore minus dolores reprehenderit corporis quos.

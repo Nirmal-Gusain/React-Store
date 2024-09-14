@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
   return (
     <header className=' bg-neutral py-2 text-neutral-content '>
-      <div className='align-element flex mx-24 justify-center sm:justify-end '>
+      <div className='align-element flex sm:mx-24 justify-center sm:justify-end '>
         <div className='flex gap-x-6 justify-center items-center'>
           <Link to='/Login' className='link link-hover text-base'>
             Sign in / Guest
