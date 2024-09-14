@@ -31,7 +31,7 @@ function App() {
           element: <Orders />,
         },
         {
-          path: "singleProduct",
+          path: "product/:id",
           element: <SingleProduct />,
         },
       ],
